@@ -22,4 +22,8 @@ In this project, I will investigate a dataset based on 2014 ACS 1-year estimates
 
 ## Screenshots
 
+### Tooltip Feature
+![scatter_tooltip](screenshots/scatter_tooltip.gif)
+
+### Window Size Responsiveness
 ![responsive_scatter](screenshots/responsive_scatter.gif)
