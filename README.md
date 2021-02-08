@@ -22,6 +22,9 @@ In this project, I will investigate a dataset based on 2014 ACS 1-year estimates
 
 ## Screenshots
 
+### Interactive Scatter Plot 
+![animated_scatter](screenshots/animated_scatter.gif)
+
 ### Tooltip Feature
 ![scatter_tooltip](screenshots/scatter_tooltip.gif)
 
