@@ -20,3 +20,6 @@ In this project, I will investigate a dataset based on 2014 ACS 1-year estimates
 5. Add tooltips to the circles and display each tooltip with the data that the user has selected.
 6. Code this graphics in the `app.js` file.
 
+## Screenshots
+
+![responsive_scatter](screenshots/responsive_scatter.gif)
