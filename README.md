@@ -1,4 +1,4 @@
-## Project Description
+## Interactive Visualization of Demographic Data
 
 In this project, I will investigate a dataset based on 2014 ACS 1-year estimates from the [US Census Bureau](https://data.census.gov/cedsci/). THis dataset includes data on rates of income, obesity, poverty, etc. by state. I will look for patterns about the health risks facing particular demographics.
 
